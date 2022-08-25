@@ -19,7 +19,7 @@ Extend plugin
     │   │   │   ├── lang                    # Files with localized texts used in the plugin
     │   │   |   |    ├── cs.php
     │   │   |   |    └── en.php
-    │   │   │   ├── Resources               # Resources used by the plugin
+    │   │   │   ├── resources               # Resources used by the plugin
     │   │   |   |    ├── css
     │   │   |   |    ├── images
     │   │   |   |    └── js
