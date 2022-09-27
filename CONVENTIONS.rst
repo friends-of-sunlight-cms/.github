@@ -16,7 +16,7 @@ Extend plugin
     ├── plugins
     │   ├── extend
     │   │   ├── foobar                   	# Plugin name in lower case, no spaces (dash can be used)
-	│   │   │   ├── hcm                     # Files with HCM modules
+    │   │   │   ├── hcm                     # Files with HCM modules
     │   │   │   ├── lang                    # Files with localized texts used in the plugin
     │   │   │   │    ├── cs.php
     │   │   │   │    └── en.php
