@@ -1,4 +1,4 @@
-# Hi 👋, we are Friends of Sunlight CMS
+# Hi 👋, we are Friends of SunLight CMS
 ### A community of fans and developers of plugins, templates and translations for <a href="https://github.com/sunlight-cms">@sunlight-cms</a>.
 
 [![Facebook Badge](https://img.shields.io/badge/page-FriendsOfSunLightCMS-4267B2?style=flat-square&logo=Facebook&logoColor=white&link=https://fb.com/friendsofsunlightcms/)](https://fb.com/friendsofsunlightcms/)
