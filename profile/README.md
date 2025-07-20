@@ -7,7 +7,7 @@
 Stay in touch and get involved with the community!
 
 [![Discord Badge](https://img.shields.io/badge/Join%20Us-on%20Discord-5865F2?style=flat-square&logo=Discord&logoColor=white)](https://discord.gg/aMaPa6p9bv)  
-[![Github Badge](https://img.shields.io/badge/Read%20Us-on%20Github%20Pages-000?style=flat-square&logo=Github&logoColor=white)]([https://www.youtube.com/channel/UCMSm-mXKpky2t5Fi302LmbA](https://friends-of-sunlight-cms.github.io/))
+[![Github Badge](https://img.shields.io/badge/Read%20Us-on%20Github%20Pages-000?style=flat-square&logo=Github&logoColor=white)](https://friends-of-sunlight-cms.github.io/)
 
 ---
 
